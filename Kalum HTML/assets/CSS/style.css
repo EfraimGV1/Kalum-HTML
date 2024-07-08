@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#search{
+    
+    color: white;
+}
+#slider
+{
+    height: 550px;
+    overflow: hidden;
+}
+#slider img
+{
+    height: 550px;
+}
